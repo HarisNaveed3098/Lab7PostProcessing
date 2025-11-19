@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\x64\Debug\E8_Tessellation.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\boxblur_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\directional_blur_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\gaussian_horizontal_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\gaussian_vertical_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\kernel_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\selective_greyscale_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\tessellation_ds.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\tessellation_hs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\tessellation_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\tessellation_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\texture_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\texture_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

@@ -1,0 +1,29 @@
+﻿  compilation object save succeeded; see C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\boxblur_ps.cso
+C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\directional_blur_ps.hlsl(41,23-36): warning X3556: integer divides may be much slower, try using uints if possible.
+  
+  compilation object save succeeded; see C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\directional_blur_ps.cso
+  compilation object save succeeded; see C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\gaussian_horizontal_ps.cso
+  compilation object save succeeded; see C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\gaussian_vertical_ps.cso
+  compilation object save succeeded; see C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\kernel_ps.cso
+  compilation object save succeeded; see C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\selective_greyscale_ps.cso
+  compilation object save succeeded; see C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\tessellation_ds.cso
+  compilation object save succeeded; see C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\tessellation_hs.cso
+  compilation object save succeeded; see C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\tessellation_ps.cso
+  compilation object save succeeded; see C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\tessellation_vs.cso
+  compilation object save succeeded; see C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\texture_ps.cso
+  compilation object save succeeded; see C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\E8_Tessellation\texture_vs.cso
+  App1.cpp
+  BoxBlurShader.cpp
+  DirectionalBlurShader.cpp
+  GaussianBlurShader.cpp
+  KernelShader.cpp
+  Lab7app.cpp
+  Main.cpp
+  SelectiveGreyscaleShader.cpp
+  TessellationShader.cpp
+  TextureShader.cpp
+  Generating Code...
+DXFramework.lib(DDSTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(DDSTextureLoader.obj)' or at 'C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(WICTextureLoader.obj)' or at 'C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(pch.obj)' or at 'C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+  E8_Tessellation.vcxproj -> C:\Users\Hashir Rauf\Desktop\Lab7PostProcessing\x64\Debug\E8_Tessellation.exe
